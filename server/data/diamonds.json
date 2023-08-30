@@ -1,0 +1,57 @@
+[
+    {
+        "amount": 100,
+        "description": "1x Weekly Diamond Pass",
+        "price": 25000
+    },
+    {
+        "amount": 200,
+        "description": "2x Weekly Diamond Pass",
+        "price": 50000
+    },
+    {
+        "amount": 300,
+        "description": "3x Weekly Diamond Pass",
+        "price": 75000
+    },
+    {
+        "amount": 400,
+        "description": "Twilight Pass",
+        "price": 132400
+    },
+    {
+        "amount": 5,
+        "description": "5 + 0 diamonds",
+        "price": 1490
+    },
+    {
+        "amount": 12,
+        "description": "11 + 1 diamonds",
+        "price": 3390
+    },
+    {
+        "amount": 86,
+        "description": "78 + 8 diamonds",
+        "price": 19800
+    },
+    {
+        "amount": 172,
+        "description": "156 + 16 diamonds",
+        "price": 39760
+    },
+    {
+        "amount": 257,
+        "description": "234 + 23 diamonds",
+        "price": 58450
+    },
+    {
+        "amount": 344,
+        "description": "312 + 32 diamonds",
+        "price": 78700
+    },
+    {
+        "amount": 429,
+        "description": "390 + 39 diamonds",
+        "price": 99000
+    }
+]
